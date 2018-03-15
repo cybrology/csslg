@@ -1,8 +1,8 @@
 ## Cybersecurity Self Learning Guide
-> **Are you:**
+> **Are you:** <br/>
 > *A Student, aspirant of career in Cybsercurity?* <br/>
-> *An IT Professional, targeting to complement your profile with Cybersecurity certification?*
-> *A Cybersecurity enthusiast, wanting to hone your skills and notch up your current skill set?*
+> *An IT Professional, targeting to complement your profile with Cybersecurity certification?*<br/>
+> *A Cybersecurity enthusiast, wanting to hone your skills and notch up your current skill set?*<br/>
 
 
 
